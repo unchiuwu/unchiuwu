@@ -5,8 +5,8 @@ Fourth-year engineering student building projects across **Data Science, Data An
 Interested in turning data into reliable analysis, predictive models and
 decision-support tools — from **data ingestion and SQL** through to **statistical analysis, machine learning and visualisation**.
 
-────────────────────────────────────────
-📌 Featured Projects
+## 📌 Featured Projects
+
 🏦 P2P Loan Risk Prediction System
 
 End-to-end credit risk classification pipeline using Lending Club data. Performed preprocessing, feature engineering, model comparison, hyperparameter tuning and evaluation using AUROC, F1, precision and accuracy; deployed the selected XGBoost model with an interpretable prediction interface.
